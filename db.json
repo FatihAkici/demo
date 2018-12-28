@@ -1,7 +1,8 @@
 {
   "custs": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {"id": 1, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500},
+    {"id": 2, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500},
+    {"id": 3, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500},
+    {"id": 4, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500}
   ]
 }
