@@ -1,6 +1,6 @@
 {
-  "cust1": {"id": 1, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500},
-  "cust2": {"id": 2, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500},
-  "cust3": {"id": 3, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500},
-  "cust4": {"id": 4, "age": 25, "credit": 550, "payfreq": 4, "gmi": 1500}
+  "cust1": {"id": 1, "age": 15, "credit": 550, "payfreq": 4, "gmi": 1500},
+  "cust2": {"id": 2, "age": 27, "credit": 650, "payfreq": 4, "gmi": 3400},
+  "cust3": {"id": 3, "age": 35, "credit": 600, "payfreq": 2, "gmi": 3200},
+  "cust4": {"id": 4, "age": 40, "credit": 680, "payfreq": 2, "gmi": 4000}
 }
